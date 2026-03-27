@@ -5,7 +5,7 @@
  */
 
 import type { ArticleResult, PathId } from "@/lib/wikipedia";
-import { ResultCard } from "@/components/result-card.tsx";
+import { ResultCard } from "./result-card";
 
 interface PathColumnProps {
   /** Identifier for which head/path this column represents */
