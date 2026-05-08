@@ -1,6 +1,6 @@
 # Triglav's Oracle
 
-> A three-headed Wikipedia rabbit hole, themed around the Slavic god Triglav.
+A three-headed Wikipedia rabbit hole, themed around the Slavic god Triglav.
 
 🔮 **Live demo:** https://triglav-wisdom-trails.lovable.app
 
@@ -32,31 +32,6 @@ To skew results thematically, **Svarog** and **Veles** quietly append a random k
 - [shadcn/ui](https://ui.shadcn.com/) component primitives
 - Built with [Lovable](https://lovable.dev)
 
-## Getting started
-
-```bash
-# Clone
-git clone https://github.com/<your-username>/triglav-wisdom-trails.git
-cd triglav-wisdom-trails
-
-# Install (bun is recommended, npm works too)
-bun install
-
-# Run the dev server
-bun dev
-```
-
-Then open http://localhost:5173.
-
-## Scripts
-
-| Command         | What it does                       |
-| --------------- | ---------------------------------- |
-| `bun dev`       | Start the Vite dev server          |
-| `bun run build` | Production build to `dist/`        |
-| `bun run preview` | Preview the production build     |
-| `bun test`      | Run the Vitest test suite          |
-
 ## Project structure
 
 ```
@@ -83,4 +58,4 @@ src/
 
 ## License
 
-[MIT](./LICENSE) © Triglav's Oracle contributors
+[MIT](./LICENSE) 
